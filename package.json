@@ -1,0 +1,27 @@
+{
+  "name": "widmark-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qvil/widmark-calculator.git"
+  },
+  "keywords": [],
+  "author": "Taesu Hyeon <qvil1127@gmail.com> (https://github.com/qvil)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qvil/widmark-calculator/issues"
+  },
+  "homepage": "https://github.com/qvil/widmark-calculator#readme",
+  "dependencies": {
+    "next": "^9.0.4",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
