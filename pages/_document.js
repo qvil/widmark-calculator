@@ -26,7 +26,10 @@ class MyDocument extends Document {
 
     return (
       <Html>
-        <Head>{loadMUI()}</Head>
+        <Head>
+          <title>술 깨는 시간 계산기, 혈중 알콜농도 계산, 위드마크 공식</title>
+          {loadMUI()}
+        </Head>
         <body>
           <Main />
           <NextScript />
